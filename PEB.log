@@ -11,3 +11,4 @@ cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-20 - 15:48 -- Virtual Machine vm-
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-20 - 15:53 -- Virtual Machine vm-euc-jb-301 configured with MECMConsole.ps1 successfully
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-20 - 15:53 -- Auto Shutdown Enabled for 1800
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-20 - 15:54 -- VM vm-euc-jb-301 shutdown successfully
+cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-20 - 15:54 -- Completed RebuildAzureVM.ps1
