@@ -9,3 +9,4 @@ cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-20 - 15:38 -- Restarting VM...
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-20 - 15:44 -- Virtual Machine vm-euc-jb-301 configured with RunOnce.ps1 successfully
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-20 - 15:48 -- Virtual Machine vm-euc-jb-301 configured with Jumpbox.ps1 successfully
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-20 - 15:53 -- Virtual Machine vm-euc-jb-301 configured with MECMConsole.ps1 successfully
+cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-20 - 15:53 -- Auto Shutdown Enabled for 1800
