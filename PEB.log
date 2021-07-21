@@ -60,3 +60,4 @@ cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-21 - 12:02 -- Configuring 1 of 1 
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-21 - 12:02 -- Virtual Machine vm-euc-hyprv-01 created successfully
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-21 - 12:03 -- Restarting VM...
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-21 - 12:07 -- Virtual Machine vm-euc-hyprv-01 configured with RunOnce.ps1 successfully
+cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-21 - 12:08 -- Virtual Machine vm-euc-hyprv-01 configured with ConfigureDataDisk.ps1 successfully
