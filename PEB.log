@@ -42,3 +42,4 @@ cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-21 - 11:56 -- Configuring 1 of 1 
 ERROR: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-21 - 11:56 -- *** Unable to configure Virtual Machine vm-euc-hyprv-01! ***
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-21 - 11:56 -- Hyper-V Configure Script Completed
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-21 - 11:56 -- Completed CreatePackagingEnv-MainScript-V1.ps1
+cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-21 - 11:56 -- =============================================================================================================
