@@ -75,3 +75,4 @@ cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-22 - 13:38 -- PROD Network Securi
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-22 - 13:38 -- PROD Virtual Network created and associated with the Network Security Group successfully
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-22 - 13:38 -- Creation of Storage Account and Storage Container not required
 ERROR: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-22 - 13:38 -- *** Unable to configure Virtual Machine vm-euc-core-401! ***
+cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-22 - 13:38 -- Packaging VM Script Completed
