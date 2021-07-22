@@ -113,3 +113,4 @@ cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-22 - 14:13 -- Virtual Machine vm-
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-22 - 14:14 -- Restarting VM...
 ERROR: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-22 - 14:18 -- *** Unable to configure Virtual Machine vm-euc-core-401 with VCPP.ps1 ***
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-22 - 14:18 -- Auto Shutdown Enabled for 1800
+cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-22 - 14:19 -- VM vm-euc-core-401 shutdown successfully
