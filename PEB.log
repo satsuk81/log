@@ -156,3 +156,4 @@ cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-26 - 16:11 -- Storage Account has
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-26 - 16:11 -- Completed CreatePackagingEnv-MainScript-V1.ps1
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-26 - 16:11 -- =============================================================================================================
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-26 - 16:13 -- Running RebuildAzureVM.ps1
+cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-26 - 16:13 -- Running SyncFiles.ps1
