@@ -211,3 +211,4 @@ cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-26 - 19:33 -- Virtual Machine vm-
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-26 - 19:37 -- Virtual Machine vm-euc-core-401 configured with Office365.ps1 successfully
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-26 - 19:37 -- Auto Shutdown Enabled for 1800
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-26 - 19:38 -- VM vm-euc-core-401 shutdown successfully
+cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-26 - 19:38 -- Completed PEB-RebuildAzureVM.ps1
