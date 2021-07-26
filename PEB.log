@@ -184,3 +184,4 @@ cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-26 - 17:02 -- Running PEB-AzureBu
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-26 - 17:02 -- PROD Resource Group created successfully
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-26 - 17:03 -- PROD Network Security Group created successfully
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-26 - 17:03 -- PROD Virtual Network created and associated with the Network Security Group successfully
+cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-26 - 17:03 -- Creation of Storage Account and Storage Container not required
