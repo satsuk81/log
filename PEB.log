@@ -164,3 +164,4 @@ cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-26 - 16:21 -- Virtual Machine vm-
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-26 - 16:22 -- Restarting VM...
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-26 - 16:22 -- Auto Shutdown Enabled for 1800
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-26 - 16:23 -- VM vm-euc-core-401 shutdown successfully
+cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-26 - 16:23 -- Completed RebuildAzureVM.ps1
