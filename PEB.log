@@ -208,3 +208,4 @@ cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-26 - 18:27 -- Rebuilding: vm-euc-
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-26 - 18:33 -- Virtual Machine vm-euc-core-401 created successfully
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-26 - 18:34 -- Restarting VM...
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-26 - 19:33 -- Virtual Machine vm-euc-core-401 configured with VCPP.ps1 successfully
+cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-26 - 19:37 -- Virtual Machine vm-euc-core-401 configured with Office365.ps1 successfully
