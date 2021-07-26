@@ -129,3 +129,4 @@ cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-22 - 14:51 -- Auto Shutdown Enabl
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-22 - 14:52 -- VM vm-euc-core-401 shutdown successfully
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-22 - 14:52 -- Completed RebuildAzureVM.ps1
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-22 - 14:52 -- =============================================================================================================
+cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-26 - 15:27 -- Running CreatePackagingEnv-MainScript-V1.ps1
