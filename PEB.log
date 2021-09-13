@@ -217,3 +217,4 @@ cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-13 - 12:17 -- Running PEB-Rebuild
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-13 - 12:18 -- Rebuilding: vm-euc-van-101 with Spec: Standard
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-13 - 12:23 -- VM: vm-euc-van-101 created successfully
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-13 - 12:24 -- VM: vm-euc-van-101 - Restarting VM for 120 Seconds...
+cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-13 - 12:26 -- VM: vm-euc-van-101 - Auto Shutdown Enabled for 1800
