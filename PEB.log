@@ -236,3 +236,4 @@ cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-13 - 12:37 -- DEV Virtual Network
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-13 - 12:37 -- Creation of Storage Account and Storage Container not required
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-13 - 12:37 -- Creating 1 of 1 VMs
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-13 - 12:41 -- Creating 1 of 1 VMs
+ERROR: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-13 - 12:42 -- *** Virtual Machine vm-euc-van-101 already exists! ***
