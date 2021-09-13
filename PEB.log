@@ -364,3 +364,4 @@ cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-13 - 16:24 -- VM: vm-euc-hyprv-01
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-13 - 16:26 -- VM: vm-euc-hyprv-01 - Installing App: ConfigHyperV
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-13 - 16:44 -- VM: vm-euc-hyprv-01 configured with ConfigHyperV.ps1 successfully
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-13 - 16:44 -- VM: vm-euc-hyprv-01 - Installing App: Build-VMBase
+ERROR: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-13 - 16:53 -- *** VM: vm-euc-hyprv-01 - Unable to configure Virtual Machine with Build-VMBase.ps1 ***
