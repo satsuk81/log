@@ -345,3 +345,4 @@ ERROR: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-13 - 16:02 -- *** VM: vm-e
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-13 - 16:02 -- VM: vm-euc-hyprv-01 - Installing App: Build-VMBase
 ERROR: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-13 - 16:02 -- *** VM: vm-euc-hyprv-01 - Unable to configure Virtual Machine with Build-VMBase.ps1 ***
 ERROR: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-13 - 16:02 -- *** VM: vm-euc-hyprv-01 - Unable to shutdown! ***
+cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-13 - 16:02 -- Completed PEB-AzureBuilder.ps1
