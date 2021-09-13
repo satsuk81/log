@@ -216,3 +216,4 @@ cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-07-26 - 19:38 -- ===================
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-13 - 12:17 -- Running PEB-RebuildAzureVM.ps1
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-13 - 12:18 -- Rebuilding: vm-euc-van-101 with Spec: Standard
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-13 - 12:23 -- VM: vm-euc-van-101 created successfully
+cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-13 - 12:24 -- VM: vm-euc-van-101 - Restarting VM for 120 Seconds...
