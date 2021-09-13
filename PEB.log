@@ -358,3 +358,4 @@ cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-13 - 16:17 -- VM: vm-euc-hyprv-01
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-13 - 16:19 -- VM: vm-euc-hyprv-01 configured with RunOnce.ps1 successfully
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-13 - 16:19 -- VM: vm-euc-hyprv-01 - Installing App: ConfigureDataDisk
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-13 - 16:20 -- VM: vm-euc-hyprv-01 configured with ConfigureDataDisk.ps1 successfully
+cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-13 - 16:20 -- VM: vm-euc-hyprv-01 - Installing App: EnableHyperV
