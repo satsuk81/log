@@ -254,3 +254,4 @@ cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-13 - 13:11 -- VM: vm-euc-van-101 
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-13 - 13:11 -- VM: vm-euc-van-101 - Auto Shutdown Enabled for 1800
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-13 - 13:11 -- VM: vm-euc-van-101 - Installing App: RunOnce
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-13 - 13:14 -- VM: vm-euc-van-101 configured with RunOnce.ps1 successfully
+cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-13 - 13:15 -- VM: vm-euc-van-101 shutdown successfully
