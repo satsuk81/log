@@ -252,3 +252,4 @@ cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-13 - 13:03 -- Running PEB-Rebuild
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-13 - 13:06 -- Rebuilding: vm-euc-van-101 with Spec: AdminStudio
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-13 - 13:11 -- VM: vm-euc-van-101 created successfully
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-13 - 13:11 -- VM: vm-euc-van-101 - Auto Shutdown Enabled for 1800
+cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-13 - 13:11 -- VM: vm-euc-van-101 - Installing App: RunOnce
