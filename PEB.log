@@ -337,3 +337,4 @@ cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-13 - 15:59 -- VM: vm-euc-hyprv-01
 ERROR: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-13 - 15:59 -- *** VM: vm-euc-hyprv-01 - Unable to configure Virtual Machine with RunOnce.ps1 ***
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-13 - 15:59 -- VM: vm-euc-hyprv-01 - Installing App: ConfigureDataDisk
 ERROR: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-13 - 15:59 -- *** VM: vm-euc-hyprv-01 - Unable to configure Virtual Machine with ConfigureDataDisk.ps1 ***
+cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-13 - 15:59 -- VM: vm-euc-hyprv-01 - Installing App: EnableHyperV
