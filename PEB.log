@@ -458,3 +458,4 @@ cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-14 - 16:23 -- Rebuilding: vm-euc-
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-14 - 16:29 -- VM: vm-euc-jb-301 created successfully
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-14 - 16:29 -- VM: vm-euc-jb-301 - Auto Shutdown Enabled for 1800
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-14 - 16:29 -- VM: vm-euc-jb-301 - Installing App: RunOnce
+ERROR: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-14 - 16:29 -- *** VM: vm-euc-jb-301 - Unable to configure Virtual Machine with RunOnce.ps1 ***
