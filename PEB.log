@@ -511,3 +511,4 @@ cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-14 - 17:25 -- ===================
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-14 - 17:30 -- Running PEB-RebuildAzureVM.ps1
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-14 - 17:30 -- Rebuilding: vm-euc-jb-301 with Spec: Standard
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-14 - 17:36 -- VM: vm-euc-jb-301 created successfully
+cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-14 - 17:36 -- VM: vm-euc-jb-301 - Auto Shutdown Enabled for 1800
