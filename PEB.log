@@ -423,3 +423,4 @@ cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-14 - 13:00 -- VM: vm-euc-jb-301 c
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-14 - 13:00 -- VM: vm-euc-jb-301 - Installing App: MECMConsole
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-14 - 13:03 -- VM: vm-euc-jb-301 configured with MECMConsole.ps1 successfully
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-14 - 13:04 -- VM: vm-euc-jb-301 shutdown successfully
+cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-14 - 13:04 -- Completed PEB-RebuildAzureVM.ps1
