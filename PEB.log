@@ -528,3 +528,4 @@ cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-14 - 19:53 -- VM: vm-euc-jb-301 c
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-14 - 19:53 -- VM: vm-euc-jb-301 - Installing App: 7-Zip
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-14 - 19:55 -- VM: vm-euc-jb-301 configured with 7-Zip.ps1 successfully
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-14 - 19:55 -- VM: vm-euc-jb-301 shutdown successfully
+cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-14 - 19:55 -- Completed PEB-RebuildAzureVM.ps1
