@@ -496,3 +496,4 @@ cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-14 - 17:09 -- VM: vm-euc-jb-301 -
 ERROR: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-14 - 17:09 -- *** VM: vm-euc-jb-301 - Unable to configure Virtual Machine with 7-Zip.ps1 ***
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-14 - 17:10 -- VM: vm-euc-jb-301 shutdown successfully
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-14 - 17:10 -- Completed PEB-RebuildAzureVM.ps1
+cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-14 - 17:10 -- =============================================================================================================
