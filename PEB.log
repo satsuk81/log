@@ -444,3 +444,4 @@ cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-14 - 14:25 -- VM: vm-euc-jb-301 -
 ERROR: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-14 - 14:27 -- *** VM: vm-euc-jb-301 - Unable to configure Virtual Machine with RunOnce.ps1 ***
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-14 - 14:27 -- VM: vm-euc-jb-301 - Installing App: ORCA
 ERROR: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-14 - 14:27 -- *** VM: vm-euc-jb-301 - Unable to configure Virtual Machine with ORCA.ps1 ***
+cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-14 - 14:27 -- VM: vm-euc-jb-301 - Installing App: 7-Zip
