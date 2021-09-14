@@ -426,3 +426,4 @@ cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-14 - 13:04 -- VM: vm-euc-jb-301 s
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-14 - 13:04 -- Completed PEB-RebuildAzureVM.ps1
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-14 - 13:04 -- =============================================================================================================
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-14 - 13:29 -- Running PEB-RebuildAzureVM.ps1
+cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-14 - 13:30 -- Rebuilding: vm-euc-jb-301 with Spec: Standard
