@@ -418,3 +418,4 @@ cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-14 - 12:47 -- Rebuilding: vm-euc-
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-14 - 12:55 -- VM: vm-euc-jb-301 created successfully
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-14 - 12:55 -- VM: vm-euc-jb-301 - Installing App: RunOnce
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-14 - 12:57 -- VM: vm-euc-jb-301 configured with RunOnce.ps1 successfully
+cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-14 - 12:57 -- VM: vm-euc-jb-301 - Installing App: Jumpbox
