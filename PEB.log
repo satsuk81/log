@@ -384,3 +384,4 @@ ERROR: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-14 - 09:20 -- Contributor 
 ERROR: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-14 - 09:20 -- ReadOnly RBAC group already exists
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-14 - 09:20 -- PROD Network Security Group created successfully
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-14 - 09:20 -- PROD Virtual Network created and associated with the Network Security Group successfully
+cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-14 - 09:20 -- DEV Network Security Group created successfully
