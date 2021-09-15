@@ -36,3 +36,4 @@ cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-15 - 22:07 -- VM: vm-euc-van-101 
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-15 - 22:08 -- VM: vm-euc-van-101 - Auto Shutdown Enabled for 1800
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-15 - 22:08 -- VM: vm-euc-van-101 - Installing App: Prevision
 ERROR: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-15 - 22:09 -- *** VM: vm-euc-van-101 - Unable to configure Virtual Machine with Prevision.ps1 ***
+cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-15 - 22:09 -- VM: vm-euc-van-101 - Installing App: RunOnce
