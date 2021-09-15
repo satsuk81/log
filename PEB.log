@@ -539,3 +539,4 @@ DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-15 - 11:48 -- $azSubscript
 DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-15 - 11:49 -- $RGNameSTORE : rg-euc-packaging-store
 DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-15 - 11:49 -- $StorageAccountName : storageeucpackaging01
 DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-15 - 11:49 -- $VMName : vm-euc-jb-301
+DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-15 - 11:49 -- $RequireServicePrincipal : False
