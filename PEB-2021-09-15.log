@@ -2,3 +2,4 @@
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-15 - 15:10 -- Running PEB-RebuildAzureVM.ps1
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-15 - 15:11 -- Rebuilding: vm-euc-van-101 with Spec: Standard
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-15 - 15:16 -- VM: vm-euc-van-101 created successfully
+cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-15 - 15:16 -- VM: vm-euc-van-101 - Auto Shutdown Enabled for 1800
