@@ -41,3 +41,4 @@ ERROR: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-15 - 22:10 -- *** VM: vm-e
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-15 - 22:10 -- VM: vm-euc-van-101 - Installing App: 7-Zip
 ERROR: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-15 - 22:11 -- *** VM: vm-euc-van-101 - Unable to configure Virtual Machine with 7-Zip.ps1 ***
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-15 - 22:12 -- VM: vm-euc-van-101 shutdown successfully
+cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-15 - 22:12 -- Completed PEB-AzureBuilder.ps1
