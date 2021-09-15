@@ -17,3 +17,4 @@ cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-15 - 22:01 -- DEV VNET Resource G
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-15 - 22:01 -- PROD VNET Resource Group created successfully
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-15 - 22:01 -- STORE Resource Group created successfully
 ERROR: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-15 - 22:01 -- Owner RBAC group already exists
+ERROR: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-15 - 22:01 -- Contributor RBAC group already exists
