@@ -534,3 +534,4 @@ cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-15 - 11:47 -- Running PEB-Rebuild
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-15 - 11:47 -- Rebuilding: vm-euc-jb-301 with Spec: Standard
 ERROR: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-15 - 11:48 -- *** VM: vm-euc-jb-301 - Unable to configure Virtual Machine! ***
 DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-15 - 11:48 -- *** Write-Dump ***
+DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-15 - 11:48 -- $? : True
