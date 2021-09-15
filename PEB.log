@@ -542,3 +542,4 @@ DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-15 - 11:49 -- $VMName : vm
 DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-15 - 11:49 -- $RequireServicePrincipal : False
 DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-15 - 11:49 -- $RequireRBAC : True
 DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-15 - 11:49 -- (Get-AzContext).Name : User
+DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-15 - 11:49 -- $Error[0] :    7b34c01..2a4e8bd  main -> main
