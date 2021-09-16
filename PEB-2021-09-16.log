@@ -26,3 +26,4 @@ DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-16 - 14:39 -- $RGNameSTORE
 DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-16 - 14:39 -- $StorageAccountName : storageeucpackpack1
 DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-16 - 14:39 -- $RequireServicePrincipal : False
 DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-16 - 14:39 -- $RequireRBAC : True
+DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-16 - 14:39 -- (Get-AzContext).Name : User
