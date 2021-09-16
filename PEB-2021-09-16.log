@@ -28,3 +28,4 @@ DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-16 - 14:39 -- $RequireServ
 DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-16 - 14:39 -- $RequireRBAC : True
 DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-16 - 14:39 -- (Get-AzContext).Name : User
 DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-16 - 14:39 -- $Error[0] :    264393c..08d38ca  main -> main
+DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-16 - 14:40 -- $Error[1] : To https://github.com/satsuk81/log.git
