@@ -62,3 +62,4 @@ cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-16 - 14:56 -- VM: vm-euc-van-101 
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-16 - 14:56 -- VM: vm-euc-van-101 - Installing App: 7-Zip
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-16 - 14:57 -- VM: vm-euc-van-101 configured with 7-Zip.ps1 successfully
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-16 - 15:18 -- VM: vm-euc-van-101 shutdown successfully
+cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-16 - 15:18 -- Completed PEB-AzureBuilder.ps1
