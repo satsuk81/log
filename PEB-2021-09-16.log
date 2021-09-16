@@ -23,3 +23,4 @@ DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-16 - 14:39 -- *** Write-Du
 DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-16 - 14:39 -- $? : True
 DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-16 - 14:39 -- $azSubscription : 1c3b43a4-90da-4988-9598-cab119913f5d
 DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-16 - 14:39 -- $RGNameSTORE : rg-euc-packaging-store
+DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-16 - 14:39 -- $StorageAccountName : storageeucpackpack1
