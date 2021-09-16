@@ -20,3 +20,4 @@ cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-16 - 14:39 -- DEV Virtual Network
 ERROR: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-16 - 14:39 -- *** Unable to create the Storage Account or container! ***
 ERROR: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-16 - 14:39 -- *** Unable to create the Storage Share! ***
 DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-16 - 14:39 -- *** Write-Dump ***
+DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-16 - 14:39 -- $? : True
