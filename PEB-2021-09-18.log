@@ -15,3 +15,4 @@ cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-18 - 00:19 -- VM: vm-euc-van-101 
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-18 - 00:26 -- VM: vm-euc-van-101 configured with choco-coreapps.ps1 successfully
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-18 - 00:26 -- VM: vm-euc-van-101 shutdown successfully
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-18 - 00:26 -- Completed PEB-RebuildAzureVM.ps1
+cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-18 - 00:26 -- =============================================================================================================
