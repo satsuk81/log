@@ -35,3 +35,4 @@ ERROR: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-21 - 13:31 -- *** VM: vm-e
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-21 - 13:31 -- VM: vm-euc-core-401 - Installing App: App-WellaZscaler
 ERROR: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-21 - 13:32 -- *** VM: vm-euc-core-401 - Unable to configure Virtual Machine with App-WellaZscaler.ps1 ***
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-21 - 13:32 -- VM: vm-euc-core-401 - Installing App: App-XeroxAgent
+ERROR: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-21 - 13:33 -- *** VM: vm-euc-core-401 - Unable to configure Virtual Machine with App-XeroxAgent.ps1 ***
