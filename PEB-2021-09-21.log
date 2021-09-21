@@ -53,3 +53,4 @@ cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-21 - 13:54 -- VM: vm-euc-core-401
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-21 - 13:55 -- VM: vm-euc-core-401 configured with chocolatey.ps1 successfully
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-21 - 13:55 -- VM: vm-euc-core-401 - Installing App: choco-coreapps
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-21 - 14:04 -- VM: vm-euc-core-401 configured with choco-coreapps.ps1 successfully
+cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-21 - 14:04 -- VM: vm-euc-core-401 - Installing App: Office365
