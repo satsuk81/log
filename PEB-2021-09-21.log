@@ -12,3 +12,4 @@ cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-21 - 12:31 -- VM: vm-euc-core-401
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-21 - 12:32 -- VM: vm-euc-core-401 - Auto Shutdown Enabled for 1800
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-21 - 12:32 -- VM: vm-euc-core-401 - Installing App: RunOnce
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-21 - 13:04 -- Running PEB-AzureBuilder.ps1
+cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-21 - 13:05 -- Creation of Storage Account and Storage Container not required
