@@ -32,3 +32,4 @@ cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-21 - 13:23 -- VM: vm-euc-core-401
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-21 - 13:30 -- VM: vm-euc-core-401 configured with Office365.ps1 successfully
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-21 - 13:30 -- VM: vm-euc-core-401 - Installing App: App-ClickShareExension
 ERROR: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-21 - 13:31 -- *** VM: vm-euc-core-401 - Unable to configure Virtual Machine with App-ClickShareExension.ps1 ***
+cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-21 - 13:31 -- VM: vm-euc-core-401 - Installing App: App-WellaZscaler
