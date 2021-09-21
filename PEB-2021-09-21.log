@@ -38,3 +38,4 @@ cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-21 - 13:32 -- VM: vm-euc-core-401
 ERROR: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-21 - 13:33 -- *** VM: vm-euc-core-401 - Unable to configure Virtual Machine with App-XeroxAgent.ps1 ***
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-21 - 13:33 -- VM: vm-euc-core-401 shutdown successfully
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-21 - 13:33 -- Completed PEB-AzureBuilder.ps1
+cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-21 - 13:34 -- =============================================================================================================
