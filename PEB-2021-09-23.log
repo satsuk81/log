@@ -4,3 +4,4 @@ cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-23 - 16:17 -- Running PEB-Rebuild
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-23 - 16:20 -- Running PEB-RebuildAzureVM.ps1
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-23 - 16:20 -- Syncing Files...
 cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-23 - 16:20 -- Running PEB-SyncFiles.ps1
+cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-09-23 - 16:20 -- Completed PEB-SyncFiles.ps1
