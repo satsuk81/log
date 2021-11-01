@@ -22,3 +22,4 @@ DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-11-01 - 02:08:32 -- $RequireR
 DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-11-01 - 02:08:38 -- (Get-AzContext).Name : User
 DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-11-01 - 02:08:44 -- $Error[0] :    b020199..d6657dc  main -> main
 DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-11-01 - 02:08:49 -- $Error[1] : To https://github.com/satsuk81/log.git
+DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-11-01 - 02:08:59 -- $Error[2] :    d6657dc..0813b53  main -> main
