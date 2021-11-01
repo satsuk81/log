@@ -17,3 +17,4 @@ DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-11-01 - 02:07:48 -- $? : True
 DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-11-01 - 02:08:04 -- $azSubscription : 743e9d63-59c8-42c3-b823-28bb773a88a6
 DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-11-01 - 02:08:10 -- $RGNameSTORE : rg-euc-packaging-store
 DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-11-01 - 02:08:20 -- $StorageAccountName : storageeucpackaging01
+DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-11-01 - 02:08:25 -- $RequireServicePrincipal : False
