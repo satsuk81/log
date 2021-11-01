@@ -4,3 +4,4 @@ ERROR: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-11-01 - 01:58:54 -- Owner RBA
 DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-11-01 - 01:59:02 -- *** Write-Dump ***
 DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-11-01 - 01:59:10 -- $? : True
 DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-11-01 - 01:59:16 -- $azSubscription : 743e9d63-59c8-42c3-b823-28bb773a88a6
+DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-11-01 - 01:59:21 -- $RGNameSTORE : rg-euc-packaging-store
