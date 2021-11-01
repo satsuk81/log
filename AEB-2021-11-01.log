@@ -9,3 +9,4 @@ DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-11-01 - 01:59:27 -- $StorageA
 DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-11-01 - 01:59:34 -- $RequireServicePrincipal : False
 DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-11-01 - 01:59:40 -- $RequireRBAC : True
 DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-11-01 - 01:59:46 -- (Get-AzContext).Name : User
+DEBUG: cf36141c-ddd7-45a7-b073-111f66d0b30c / 2021-11-01 - 01:59:52 -- $Error[0] :    b987de4..bebdb71  main -> main
