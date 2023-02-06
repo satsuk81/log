@@ -172,3 +172,4 @@ ERROR: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-06 - 16:28:31 -- *** VM: v
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-06 - 16:51:51 -- VM: vm-euc-van-101 - Auto Shutdown Enabled for 1800
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-06 - 16:51:54 -- VM: vm-euc-van-101 - Installing App: Conf-RunOnce
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-06 - 16:53:59 -- VM: vm-euc-van-101 configured with Conf-RunOnce.ps1 successfully
+9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-06 - 16:54:02 -- VM: vm-euc-van-101 - Installing App: App-7-Zip
