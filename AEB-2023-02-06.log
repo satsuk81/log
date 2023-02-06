@@ -100,3 +100,4 @@ ERROR: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-06 - 14:12:37 -- *** VM: v
 ERROR: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-06 - 14:17:50 -- *** VM: vm-euc-dc-01 - Unable to configure Virtual Machine with Conf-EnableDomainController3.ps1 ***
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-06 - 14:17:57 -- Configuring 1 of 1 VMs
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-06 - 14:18:00 -- VM: vm-euc-sccm-01 created successfully
+9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-06 - 14:20:54 -- Running AEB-AzureBuilder.ps1
