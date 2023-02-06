@@ -112,3 +112,4 @@ ERROR: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-06 - 14:17:50 -- *** VM: v
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-06 - 14:25:23 -- VM: vm-euc-dc-01 - Installing App: Conf-RunOnce
 ERROR: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-06 - 14:36:58 -- *** VM: vm-euc-dc-01 - Unable to configure Virtual Machine with Conf-RunOnce.ps1 ***
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-06 - 14:37:06 -- VM: vm-euc-dc-01 - Installing App: Conf-ConfigureDataDisk
+9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-06 - 14:38:10 -- VM: vm-euc-dc-01 configured with Conf-ConfigureDataDisk.ps1 successfully
