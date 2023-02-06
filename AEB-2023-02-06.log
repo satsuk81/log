@@ -15,3 +15,4 @@
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-06 - 10:27:10 -- VM: vm-euc-sccm-01 - Installing App: Conf-ConfigureDataDisk
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-06 - 10:28:15 -- VM: vm-euc-sccm-01 configured with Conf-ConfigureDataDisk.ps1 successfully
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-06 - 10:28:18 -- VM: vm-euc-sccm-01 - Installing App: Conf-DomainJoin
+9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-06 - 10:31:52 -- VM: vm-euc-sccm-01 configured with Conf-DomainJoin.ps1 successfully
