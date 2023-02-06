@@ -178,3 +178,4 @@ ERROR: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-06 - 16:28:31 -- *** VM: v
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-06 - 16:58:22 -- VM: vm-euc-van-101 configured with App-CMTrace.ps1 successfully
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-06 - 16:58:25 -- VM: vm-euc-van-101 - Installing App: App-chocolatey
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-06 - 16:59:29 -- VM: vm-euc-van-101 configured with App-chocolatey.ps1 successfully
+9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-06 - 16:59:33 -- VM: vm-euc-van-101 - Installing App: App-choco-vscode
