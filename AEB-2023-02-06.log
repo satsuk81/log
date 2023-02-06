@@ -93,3 +93,4 @@ ERROR: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-06 - 12:27:19 -- *** VM: v
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-06 - 14:02:47 -- VM: vm-euc-dc-01 - Installing App: Conf-EnableDomainController
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-06 - 14:06:21 -- VM: vm-euc-dc-01 configured with Conf-EnableDomainController.ps1 successfully
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-06 - 14:07:29 -- VM: vm-euc-dc-01 - Restarting VM for 120 Seconds...
+9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-06 - 14:09:33 -- VM: vm-euc-dc-01 - Installing App: Conf-EnableDomainController2
