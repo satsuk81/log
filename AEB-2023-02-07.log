@@ -10,3 +10,4 @@
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-07 - 13:40:13 -- =============================================================================================================
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-07 - 15:31:23 -- Running AEB-AzureBuilder.ps1
 ERROR: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-07 - 15:31:40 -- *** Unable to create or configure PROD Network Security Group! ***
+9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-07 - 15:31:45 -- *** Unable to create or configure DEV Network Security Group! ***
