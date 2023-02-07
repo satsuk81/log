@@ -52,3 +52,4 @@ ERROR: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-07 - 15:31:40 -- *** Unabl
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-07 - 15:59:51 -- Running AEB-AzureBuilder.ps1
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-07 - 16:00:03 -- PROD Network Security Group created successfully
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-07 - 16:17:22 -- Creation of Storage Account and Storage Container not required
+9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-07 - 16:17:40 -- Syncing Files...
