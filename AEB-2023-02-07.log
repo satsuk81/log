@@ -127,3 +127,4 @@ ERROR: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-07 - 17:02:26 -- *** VM: v
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-07 - 17:12:00 -- VM: vm-euc-dc-01 configured with Conf-RunOnce.ps1 successfully
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-07 - 17:12:14 -- VM: vm-euc-dc-01 - Installing App: Conf-ConfigureDataDisk
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-07 - 17:13:19 -- VM: vm-euc-dc-01 configured with Conf-ConfigureDataDisk.ps1 successfully
+9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-07 - 17:13:23 -- VM: vm-euc-dc-01 - Installing App: Conf-EnableDomainController
