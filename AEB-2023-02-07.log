@@ -23,3 +23,4 @@ ERROR: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-07 - 15:31:40 -- *** Unabl
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-07 - 15:37:35 -- PROD Network Security Group created successfully
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-07 - 15:37:48 -- Creation of Storage Account and Storage Container not required
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-07 - 15:37:53 -- Syncing Files...
+9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-07 - 15:37:59 -- Running SyncFiles.ps1
