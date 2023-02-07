@@ -97,3 +97,4 @@ ERROR: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-07 - 15:31:40 -- *** Unabl
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-07 - 16:35:33 -- PROD Bastion for VNET vnet-TestClient0-domain not required
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-07 - 16:35:37 -- DEV Bastion for VNET vnet-TestClient0-domain not required
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-07 - 16:35:43 -- DEV Bastion for VNET vnet-TestClient0-azure not required
+9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-07 - 16:35:47 -- Creation of Storage Account and Storage Container not required
