@@ -80,3 +80,4 @@ ERROR: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-07 - 15:31:40 -- *** Unabl
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-07 - 16:32:02 -- DEV Network Security Group not required
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-07 - 16:32:09 -- PROD Bastion for VNET vnet-TestClient0-azure not required
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-07 - 16:32:13 -- PROD Bastion for VNET vnet-TestClient0-domain not required
+9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-07 - 16:32:17 -- DEV Bastion for VNET vnet-TestClient0-domain not required
