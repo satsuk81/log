@@ -75,3 +75,4 @@
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 10:44:24 -- PROD Network Security Group not required
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 10:44:29 -- DEV Network Security Group not required
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 10:44:40 -- PROD Bastion for VNET vnet-TestClient0-domain not required
+9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 10:44:44 -- DEV Bastion for VNET vnet-TestClient0-azure not required
