@@ -169,3 +169,4 @@ DEBUG: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 14:49:46 -- $VMName :
 DEBUG: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 14:49:51 -- $RequireServicePrincipal : False
 DEBUG: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 14:49:57 -- $RequireRBAC : True
 DEBUG: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 14:50:02 -- (Get-AzContext).Name : User
+DEBUG: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 14:50:07 -- $Error[0] : You cannot call a method on a null-valued expression.
