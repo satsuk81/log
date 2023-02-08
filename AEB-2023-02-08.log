@@ -134,3 +134,4 @@ ERROR: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 13:27:45 -- *** *** U
 DEBUG: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 13:27:48 -- *** Write-Dump ***
 DEBUG: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 13:27:52 -- $? : True
 DEBUG: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 13:27:56 -- $azSubscription : 6745a72d-32fc-4525-b5e9-80119fa1606b
+DEBUG: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 13:28:00 -- $RGNameSTORE : rg-TestClient1
