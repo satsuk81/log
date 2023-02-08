@@ -172,3 +172,4 @@ DEBUG: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 14:50:02 -- (Get-AzCo
 DEBUG: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 14:50:07 -- $Error[0] : You cannot call a method on a null-valued expression.
 DEBUG: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 14:50:12 -- $Error[1] : Cannot find path 'C:\Users\d.ames\OneDrive - Avanade\Documents\GitHub\Automation-PowerShell\AEB-Workplace-Services\System.Collections.Hashtable.BlobFilesSource\App-7-ZipTmpl.ps1' because it does not exist.
 DEBUG: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 14:50:17 -- $Error[2] : Cannot find vault 'kv-avaws-TestClient1' in resource group ''.
+DEBUG: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 14:50:23 -- =============================================================================================================
