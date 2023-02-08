@@ -96,3 +96,4 @@
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 11:03:49 -- VM: vm-euc-van-101 - Installing App: App-chocolatey
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 11:04:54 -- VM: vm-euc-van-101 configured with App-chocolatey.ps1 successfully
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 11:04:59 -- VM: vm-euc-van-101 - Installing App: App-choco-vscode
+ERROR: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 11:09:36 -- *** VM: vm-euc-van-101 - Unable to configure Virtual Machine with  ***
