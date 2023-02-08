@@ -53,3 +53,4 @@
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 09:58:08 -- VM: vm-euc-dc-01 configured with Conf-EnableDomainController.ps1 successfully
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 09:59:21 -- VM: vm-euc-dc-01 - Restarting VM for 60 Seconds...
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 10:00:26 -- VM: vm-euc-dc-01 - Installing App: Conf-EnableDomainController2
+9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 10:06:32 -- VM: vm-euc-dc-01 configured with Conf-EnableDomainController2.ps1 successfully
