@@ -128,3 +128,4 @@ ERROR: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 11:09:36 -- *** VM: v
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 13:23:00 -- Running AEB-AzureBuilder.ps1
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 13:23:18 -- PROD Network Security Group created successfully
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 13:23:22 -- DEV Network Security Group not required
+9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 13:27:01 -- Storage Account and container created successfully
