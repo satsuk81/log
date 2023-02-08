@@ -154,3 +154,4 @@ ErrorCode: ResourceNotFound
 ErrorMessage: The Resource 'Microsoft.Network/bastionHosts/bastion-TestClient1' under resource group 'rg-TestClient1' was not found. For more details please go to https://aka.ms/ARMResourceNotFoundFix
 OperationID : 9c88a5e1-7b18-4153-9225-7a226e603edd
 DEBUG: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 13:28:46 -- =============================================================================================================
+9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 14:47:03 -- Running AEB-AzureBuilder.ps1
