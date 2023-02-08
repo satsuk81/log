@@ -130,3 +130,4 @@ ERROR: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 11:09:36 -- *** VM: v
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 13:23:22 -- DEV Network Security Group not required
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 13:27:01 -- Storage Account and container created successfully
 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 13:27:06 -- Storage Share created successfully
+ERROR: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 13:27:45 -- *** *** Unable to create the Key Vault! ***! ***
