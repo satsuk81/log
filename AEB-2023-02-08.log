@@ -166,3 +166,4 @@ DEBUG: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 14:49:30 -- $azSubscr
 DEBUG: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 14:49:36 -- $RGNameSTORE : rg-TestClient1
 DEBUG: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 14:49:41 -- $StorageAccountName : satestclient1
 DEBUG: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 14:49:46 -- $VMName : 
+DEBUG: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 14:49:51 -- $RequireServicePrincipal : False
