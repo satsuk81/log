@@ -162,3 +162,4 @@ DEBUG: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 13:28:46 -- =========
 ERROR: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 14:49:14 -- *** An error occured trying to create the customised scripts for the Storage Blob ***
 DEBUG: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 14:49:19 -- *** Write-Dump ***
 DEBUG: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 14:49:24 -- $? : True
+DEBUG: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 14:49:30 -- $azSubscription : 6745a72d-32fc-4525-b5e9-80119fa1606b
