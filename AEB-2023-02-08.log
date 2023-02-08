@@ -141,3 +141,9 @@ DEBUG: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 13:28:17 -- $RequireS
 DEBUG: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 13:28:22 -- $RequireRBAC : True
 DEBUG: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 13:28:27 -- (Get-AzContext).Name : User
 DEBUG: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 13:28:31 -- $Error[0] : The Resource 'Microsoft.Storage/storageAccounts/satestclient1' under resource group 'rg-TestClient1' was not found. For more details please go to https://aka.ms/ARMResourceNotFoundFix
+DEBUG: 9983e9de-6ceb-499b-a06c-e030f24bd236 / 2023-02-08 - 13:28:37 -- $Error[1] : The Resource 'Microsoft.Network/bastionHosts/bastion-TestClient1' under resource group 'rg-TestClient1' was not found. For more details please go to https://aka.ms/ARMResourceNotFoundFix
+StatusCode: 404
+ReasonPhrase: Not Found
+ErrorCode: ResourceNotFound
+ErrorMessage: The Resource 'Microsoft.Network/bastionHosts/bastion-TestClient1' under resource group 'rg-TestClient1' was not found. For more details please go to https://aka.ms/ARMResourceNotFoundFix
+OperationID : 87d02861-a7fb-43b7-a0fe-4280fd5da276
